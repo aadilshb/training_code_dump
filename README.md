@@ -131,3 +131,21 @@ Given a string and a non-negative int n, return a larger string that is n copies
 stringTimes("Hi", 2) → "HiHi"
 stringTimes("Hi", 3) → "HiHiHi"
 stringTimes("Hi", 1) → "Hi"
+
+#count_special.java
+
+Write a Java program to count and display the number of special characters from a given string.
+
+#prime_array_1st.java
+
+Write a Java program to arrange all prime elements first and nonprime elements next from the given
+array.
+
+#prime_check_sum_prime.java
+
+Write a Java program to check whether a given number is prime. If prime, find the sum of its digits and
+then check it is a prime. If Prime returns 1 else return 0.
+
+#major_ele.java
+
+Write a Java program to find the majority element from the given array.
