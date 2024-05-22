@@ -149,3 +149,15 @@ then check it is a prime. If Prime returns 1 else return 0.
 #major_ele.java
 
 Write a Java program to find the majority element from the given array.
+
+#vowel_string.java
+
+Implement a Java program that reads an array of strings from the user, where each string represents a word. The program should then determine and display the word from the array that contains the highest number of vowels. Your program should output only the word with the maximum number of vowels. If multiple words have the same maximum number of vowels, output all such words. Provide the complete Java code for your program, including necessary imports and method definitions.
+
+#special_array.java
+
+Write a Java program that reads an array of strings from the user, where each string represents a sentence. The program should then determine and display the sentence from the array that contains the highest number of special characters. 
+
+#pos_array_sameprime.java
+
+Write a Java program that prompts the user to enter the length of an integer array and then input the elements of the array. The program should identify whether there exist two or more prime numbers in the array with the same number of digits. If such prime numbers exist, the program should output true; otherwise, it should output false.
