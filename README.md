@@ -161,3 +161,31 @@ Write a Java program that reads an array of strings from the user, where each st
 #pos_array_sameprime.java
 
 Write a Java program that prompts the user to enter the length of an integer array and then input the elements of the array. The program should identify whether there exist two or more prime numbers in the array with the same number of digits. If such prime numbers exist, the program should output true; otherwise, it should output false.
+
+#roman_2_int.java
+
+Roman numerals are represented by seven different symbols: I, V, X, L, C, D, and M.
+
+Symbol       Value
+I             1
+V             5
+X             10
+L             50
+C             100
+D             500
+M             1000
+For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
+
+Roman numerals are usually written from largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:
+
+I can be placed before V (5) and X (10) to make 4 and 9. 
+X can be placed before L (50) and C (100) to make 40 and 90. 
+C can be placed before D (500) and M (1000) to make 400 and 900.
+Given a roman numeral, convert it to an integer.
+
+#matrix_zero.java
+
+Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+
+You must do it in place.
+
